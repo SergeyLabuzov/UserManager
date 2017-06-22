@@ -1,0 +1,24 @@
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    width: 850px;
+}
+
+.page_block {
+    background: #fff;
+    border-radius: 2px;
+    max-width: 780px;
+    min-width: 780px;
+    box-shadow: 0 1px 0 0 #d7d8db, 0 0 0 1px #e3e4e8;
+    width: 780px;
+    margin: 10px auto;
+}
+.page_info_wrap {
+    padding: 15px 20px 20px;
+}
+
+.wide_column_right .wide_column_wrap{margin-left:345px}.wide_column_right .wide_column{float:right}
